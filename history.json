@@ -1,11 +1,11 @@
 [
   {
-    "id": "40560772567",
-    "runNumber": 217,
+    "id": "40746930614",
+    "runNumber": 218,
     "tag": "@DailyTest",
     "ambiente": "certificacion",
-    "date": "2026-10-27T18:31:47Z",
-    "dateFormatted": "27/10/2026 18:31",
+    "date": "2026-10-28T18:38:19Z",
+    "dateFormatted": "28/10/2026 18:38",
     "total": 0,
     "passed": 0,
     "failed": 0,
@@ -16,7 +16,7 @@
     "commit": "e61dcc2c1987c705a28b73d4fc990d77a766700c",
     "commitShort": "e61dcc2",
     "actor": "MonoSama21",
-    "reportUrl": "https://MonoSama21.github.io/FE-InvMatrimonios/reports/40560772567",
-    "actionsUrl": "https://github.com/MonoSama21/FE-InvMatrimonios/actions/runs/40560772567"
+    "reportUrl": "https://MonoSama21.github.io/FE-InvMatrimonios/reports/40746930614",
+    "actionsUrl": "https://github.com/MonoSama21/FE-InvMatrimonios/actions/runs/40746930614"
   }
 ]
